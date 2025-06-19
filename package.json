@@ -2,7 +2,7 @@
 	"name": "gutenberg-blocks",
 	"version": "0.1.0",
 	"description": "An addon for Gutenberg plugin.",
-	"author": "Josephine R. Chivinge",
+	"author": "Josephine R. Chivinge - test",
 	"license": "GPL-2.0-or-later",
 	"main": "build/blocks/index.js",
 	"repository": {
